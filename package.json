@@ -113,8 +113,8 @@
         "codemirror": "5.65.13",
         "d3-force": "3.0.0",
         "diff": "5.0.0",
-        "dompurify": "2.4.0",
-        "electron": "31.7.5",
+        "dompurify": "3.2.4",
+        "electron": "35.7.5",
         "electron-dl": "3.3.0",
         "fs": "0.0.1-security",
         "fs-extra": "9.1.0",
@@ -152,7 +152,7 @@
         "tailwind-capitalize-first-letter": "^1.0.4",
         "threads": "1.6.5",
         "url": "^0.11.0",
-        "yargs-parser": "20.2.4"
+        "yargs-parser": "22.0.0"
     },
     "resolutions": {
         "pixi-graph-fork/@pixi/app": "6.2.0",
