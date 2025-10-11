@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "@capacitor/cli": "latest",
-    "vite": "^2.9.13"
+    "vite": "^7.1.7"
   },
   "author": "",
   "license": "ISC"
