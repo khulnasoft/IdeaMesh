@@ -42,7 +42,7 @@
     "node-fetch": "2.6.7",
     "open": "7.3.1",
     "posthog-js": "1.10.2",
-    "semver": "7.5.2",
+    "semver": "7.7.4",
     "socks-proxy-agent": "8.0.2",
     "update-electron-app": "2.0.1"
   },
@@ -55,7 +55,7 @@
     "@electron-forge/maker-squirrel": "^7.3.1",
     "@electron-forge/maker-zip": "^7.3.1",
     "@electron/rebuild": "3.2.10",
-    "electron": "35.7.5",
+    "electron": "40.6.0",
     "electron-builder": "25.1.8",
     "electron-forge-maker-appimage": "https://github.com/khulnasoft/electron-forge-maker-appimage.git"
   },
