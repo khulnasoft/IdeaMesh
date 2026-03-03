@@ -112,7 +112,7 @@
         "chrono-node": "2.2.4",
         "codemirror": "5.65.13",
         "d3-force": "3.0.0",
-        "diff": "5.0.0",
+        "diff": "5.2.2",
         "dompurify": "3.2.4",
         "electron": "35.7.5",
         "electron-dl": "3.3.0",
