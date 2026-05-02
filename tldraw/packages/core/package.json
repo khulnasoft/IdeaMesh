@@ -48,7 +48,7 @@
     "potpack": "^2.0.0",
     "proxy-compare": "^2.3.0",
     "rbush": "^3.0.1",
-    "uuid": "^9.0.0"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "@types/is-plain-object": "^2.0.4",

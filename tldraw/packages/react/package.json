@@ -43,7 +43,7 @@
     "mousetrap": "^1.6.5",
     "polished": "^4.2.2",
     "rbush": "^3.0.1",
-    "uuid": "^9.0.0"
+    "uuid": "^14.0.0"
   },
   "peerDependencies": {
     "react": ">=16.8  || ^17.0",
